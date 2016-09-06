@@ -1,13 +1,12 @@
-Befehle:
-
-
-Git reset Head cc.properties
-
-Git checkout -- filname
-
-Zum wiederherstellen von gelöschten Dateien, die noch nicht committed wurden.
-
-
-
 Hallo
 Ich bin ein Textdokument. Bitte behandeln sie mich gut
+
+Datei wiederherstellen, die noch nicht commited aber gelöscht wurde
+Git reset Head cc.properties
+
+Git checkout --filename
+
+
+Restore alte Version:
+
+Git checkout commitversion Filename
